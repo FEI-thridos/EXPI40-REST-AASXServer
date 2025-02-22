@@ -1,0 +1,538 @@
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Opc.Ua.SampleClient.Config.xml
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Opc.Ua.SampleServer.Config.xml
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\startForDemo.sh
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\startForDemo.bat
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\LICENSE.TXT
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AasxServerBlazor.exe
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\2022-02-15_IDTA_AAS-Logo_Final_RGB.png
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\all.css
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\bootstrap\bootstrap.min.css
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\open-iconic\FONT-LICENSE
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\open-iconic\font\fonts\open-iconic.eot
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\open-iconic\font\fonts\open-iconic.otf
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\open-iconic\font\fonts\open-iconic.svg
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\open-iconic\font\fonts\open-iconic.ttf
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\open-iconic\font\fonts\open-iconic.woff
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\open-iconic\ICON-LICENSE
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\open-iconic\README.md
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\site.css
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\treeStyles.css
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\encrypted.png
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\favicon.ico
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\Icon_AASX_256x256_W.png
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\images\scottplot\smc_timeseries.png
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\LICENSE.TXT
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\Logo_IDTA.jpg
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\signed.png
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\signed_ and_verified.png
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\SpecPI40_t.png
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\swagger\swagger-original.json
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-brands-400.eot
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-brands-400.svg
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-brands-400.ttf
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-brands-400.woff
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-brands-400.woff2
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-regular-400.eot
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-regular-400.svg
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-regular-400.ttf
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-regular-400.woff
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-regular-400.woff2
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-solid-900.eot
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-solid-900.svg
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-solid-900.ttf
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-solid-900.woff
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-solid-900.woff2
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\zvei_2021_RZ_RGB.png
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AasxServerBlazor.deps.json
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AasxServerBlazor.runtimeconfig.json
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AasxServerBlazor.runtimeconfig.dev.json
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AasxServerBlazor.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AasxServerBlazor.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AasxServerBlazor.Views.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AasxServerBlazor.Views.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AML.Engine.Services.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AML.Engine.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\treelib.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\ClosedXML.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Grapevine.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\IdentityModel.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Irony.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\JetBrains.Annotations.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\jose-jwt.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\MailKit.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\MimeKit.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\MQTTnet.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Namotion.Reflection.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\NJsonSchema.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Opc.Ua.Client.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Opc.Ua.Configuration.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Opc.Ua.Core.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Opc.Ua.Gds.Client.Common.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Opc.Ua.Gds.Server.Common.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Opc.Ua.Server.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\QRCoder.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\ScottPlot.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\SixLabors.Fonts.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Newtonsoft.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\System.CommandLine.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\System.Text.Json.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\XLParser.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AasxServerStandardBib.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\es6numberserializer.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\IO.Swagger.Lib.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\IO.Swagger.Registry.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\jsoncanonicalizer.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AasxServerStandardBib.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\es6numberserializer.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\IO.Swagger.Lib.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\IO.Swagger.Lib.xml
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\IO.Swagger.Registry.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\IO.Swagger.Registry.xml
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\bin\Release\netcoreapp3.1\jsoncanonicalizer.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.csproj.AssemblyReference.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.AssemblyInfoInputs.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.AssemblyInfo.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.csproj.CoreCompileInputs.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.RazorComponent.input.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\About.razor.g.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\Error.razor.g.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\Pcf.razor.g.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\Submodels.razor.g.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\Tree.razor.g.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\TreePage.razor.g.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.RazorComponent.output.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\AasxServerBlazor.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.TagHelpers.input.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.TagHelpers.output.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.RazorCoreGenerate.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Pages\About.razor.g.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Pages\Error.razor.g.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Pages\Pcf.razor.g.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Pages\Submodels.razor.g.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Pages\Tree.razor.g.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Pages\TreePage.razor.g.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.RazorAssemblyInfo.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.RazorAssemblyInfo.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\staticwebassets\AasxServerBlazor.StaticWebAssets.Manifest.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.RazorTargetAssemblyInfo.cache
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.RazorTargetAssemblyInfo.cs
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.Views.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.csproj.CopyComplete
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.dll
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.pdb
+C:\Users\martin.pajpach\Documents\Skola\doktorandske\AAS\aas_server\REST\aasx-server-master\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.genruntimeconfig.cache
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\LICENSE.TXT
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Opc.Ua.SampleClient.Config.xml
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Opc.Ua.SampleServer.Config.xml
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\startForDemo.sh
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\startForDemo.bat
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AasxServerBlazor.exe
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\2022-02-15_IDTA_AAS-Logo_Final_RGB.png
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\all.css
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\bootstrap\bootstrap.min.css
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\open-iconic\FONT-LICENSE
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\open-iconic\font\fonts\open-iconic.eot
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\open-iconic\font\fonts\open-iconic.otf
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\open-iconic\font\fonts\open-iconic.svg
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\open-iconic\font\fonts\open-iconic.ttf
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\open-iconic\font\fonts\open-iconic.woff
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\open-iconic\ICON-LICENSE
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\open-iconic\README.md
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\site.css
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\treeStyles.css
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\encrypted.png
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\favicon.ico
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\Icon_AASX_256x256_W.png
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\images\scottplot\smc_timeseries.png
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\LICENSE.TXT
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\Logo_IDTA.jpg
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\signed.png
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\signed_ and_verified.png
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\SpecPI40_t.png
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\swagger\swagger-original.json
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-brands-400.eot
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-brands-400.svg
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-brands-400.ttf
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-brands-400.woff
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-brands-400.woff2
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-regular-400.eot
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-regular-400.svg
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-regular-400.ttf
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-regular-400.woff
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-regular-400.woff2
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-solid-900.eot
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-solid-900.svg
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-solid-900.ttf
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-solid-900.woff
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-solid-900.woff2
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\zvei_2021_RZ_RGB.png
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AasxServerBlazor.deps.json
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AasxServerBlazor.runtimeconfig.json
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AasxServerBlazor.runtimeconfig.dev.json
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AasxServerBlazor.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AasxServerBlazor.pdb
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AasxServerBlazor.Views.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AasxServerBlazor.Views.pdb
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AML.Engine.Services.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AML.Engine.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\treelib.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\ClosedXML.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Grapevine.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\IdentityModel.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Irony.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\JetBrains.Annotations.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\jose-jwt.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\MailKit.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\MimeKit.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\MQTTnet.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Namotion.Reflection.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\NJsonSchema.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Opc.Ua.Client.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Opc.Ua.Configuration.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Opc.Ua.Core.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Opc.Ua.Gds.Client.Common.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Opc.Ua.Gds.Server.Common.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Opc.Ua.Server.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\QRCoder.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\ScottPlot.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\SixLabors.Fonts.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Newtonsoft.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\System.CommandLine.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\System.Text.Json.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\XLParser.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AasxServerStandardBib.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\es6numberserializer.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\IO.Swagger.Lib.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\IO.Swagger.Registry.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\jsoncanonicalizer.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AasxServerStandardBib.pdb
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\es6numberserializer.pdb
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\IO.Swagger.Lib.pdb
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\IO.Swagger.Lib.xml
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\IO.Swagger.Registry.pdb
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\IO.Swagger.Registry.xml
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\jsoncanonicalizer.pdb
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.csproj.AssemblyReference.cache
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.AssemblyInfoInputs.cache
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.AssemblyInfo.cs
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.csproj.CoreCompileInputs.cache
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.RazorComponent.input.cache
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\About.razor.g.cs
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\Error.razor.g.cs
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\Pcf.razor.g.cs
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\Submodels.razor.g.cs
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\Tree.razor.g.cs
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\TreePage.razor.g.cs
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.RazorComponent.output.cache
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\AasxServerBlazor.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.TagHelpers.input.cache
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.TagHelpers.output.cache
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.RazorCoreGenerate.cache
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Pages\About.razor.g.cs
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Pages\Error.razor.g.cs
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Pages\Pcf.razor.g.cs
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Pages\Submodels.razor.g.cs
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Pages\Tree.razor.g.cs
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Pages\TreePage.razor.g.cs
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.RazorAssemblyInfo.cache
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.RazorAssemblyInfo.cs
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\staticwebassets\AasxServerBlazor.StaticWebAssets.Manifest.cache
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\staticwebassets\AasxServerBlazor.StaticWebAssets.Pack.cache
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\staticwebassets\msbuild.AasxServerBlazor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\staticwebassets\msbuild.build.AasxServerBlazor.props
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.AasxServerBlazor.props
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.AasxServerBlazor.props
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.RazorTargetAssemblyInfo.cache
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.RazorTargetAssemblyInfo.cs
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.Views.pdb
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.csproj.CopyComplete
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.dll
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.pdb
+C:\Users\martin.pajpach\source\repos\AASX-REST-Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.genruntimeconfig.cache
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\startForDemo.sh
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\LICENSE.TXT
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Opc.Ua.SampleClient.Config.xml
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Opc.Ua.SampleServer.Config.xml
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\startForDemo.bat
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AasxServerBlazor.exe
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\2022-02-15_IDTA_AAS-Logo_Final_RGB.png
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\all.css
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\bootstrap\bootstrap.min.css
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\open-iconic\FONT-LICENSE
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\open-iconic\font\fonts\open-iconic.eot
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\open-iconic\font\fonts\open-iconic.otf
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\open-iconic\font\fonts\open-iconic.svg
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\open-iconic\font\fonts\open-iconic.ttf
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\open-iconic\font\fonts\open-iconic.woff
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\open-iconic\ICON-LICENSE
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\open-iconic\README.md
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\site.css
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\css\treeStyles.css
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\encrypted.png
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\favicon.ico
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\Icon_AASX_256x256_W.png
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\images\scottplot\smc_timeseries.png
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\LICENSE.TXT
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\Logo_IDTA.jpg
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\signed.png
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\signed_ and_verified.png
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\SpecPI40_t.png
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\swagger\swagger-original.json
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-brands-400.eot
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-brands-400.svg
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-brands-400.ttf
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-brands-400.woff
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-brands-400.woff2
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-regular-400.eot
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-regular-400.svg
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-regular-400.ttf
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-regular-400.woff
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-regular-400.woff2
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-solid-900.eot
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-solid-900.svg
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-solid-900.ttf
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-solid-900.woff
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\webfonts\fa-solid-900.woff2
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\wwwroot\zvei_2021_RZ_RGB.png
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AasxServerBlazor.deps.json
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AasxServerBlazor.runtimeconfig.json
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AasxServerBlazor.runtimeconfig.dev.json
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AasxServerBlazor.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AasxServerBlazor.pdb
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AasxServerBlazor.Views.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AasxServerBlazor.Views.pdb
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AML.Engine.Services.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AML.Engine.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\treelib.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\ClosedXML.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Grapevine.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\IdentityModel.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Irony.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\JetBrains.Annotations.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\jose-jwt.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\MailKit.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\MimeKit.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\MQTTnet.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Namotion.Reflection.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\NJsonSchema.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Opc.Ua.Client.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Opc.Ua.Configuration.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Opc.Ua.Core.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Opc.Ua.Gds.Client.Common.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Opc.Ua.Gds.Server.Common.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Opc.Ua.Server.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\QRCoder.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\ScottPlot.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\SixLabors.Fonts.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Newtonsoft.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\System.CommandLine.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\System.Text.Json.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\XLParser.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AasxServerStandardBib.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\es6numberserializer.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\IO.Swagger.Lib.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\IO.Swagger.Registry.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\jsoncanonicalizer.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\AasxServerStandardBib.pdb
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\es6numberserializer.pdb
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\IO.Swagger.Lib.pdb
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\IO.Swagger.Lib.xml
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\IO.Swagger.Registry.pdb
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\IO.Swagger.Registry.xml
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\bin\Release\netcoreapp3.1\jsoncanonicalizer.pdb
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.csproj.AssemblyReference.cache
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.AssemblyInfoInputs.cache
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.AssemblyInfo.cs
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.csproj.CoreCompileInputs.cache
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.RazorComponent.input.cache
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\About.razor.g.cs
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\Error.razor.g.cs
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\Pcf.razor.g.cs
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\Submodels.razor.g.cs
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\Tree.razor.g.cs
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\TreePage.razor.g.cs
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.RazorComponent.output.cache
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\RazorDeclaration\AasxServerBlazor.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.TagHelpers.input.cache
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.TagHelpers.output.cache
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.RazorCoreGenerate.cache
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Pages\About.razor.g.cs
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Pages\Error.razor.g.cs
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Pages\Pcf.razor.g.cs
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Pages\Submodels.razor.g.cs
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Pages\Tree.razor.g.cs
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Pages\TreePage.razor.g.cs
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.RazorAssemblyInfo.cache
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.RazorAssemblyInfo.cs
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.RazorTargetAssemblyInfo.cache
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.RazorTargetAssemblyInfo.cs
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.Views.pdb
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\staticwebassets\AasxServerBlazor.StaticWebAssets.Manifest.cache
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\staticwebassets\AasxServerBlazor.StaticWebAssets.Pack.cache
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\staticwebassets\msbuild.AasxServerBlazor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\staticwebassets\msbuild.build.AasxServerBlazor.props
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.AasxServerBlazor.props
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.AasxServerBlazor.props
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServ.FB8DF0FF.Up2Date
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.dll
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.pdb
+C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\obj\Release\netcoreapp3.1\AasxServerBlazor.genruntimeconfig.cache

@@ -1,0 +1,22 @@
+{
+  "profiles": {
+    "AasxServerBlazor": {
+      "commandName": "Project",
+      "commandLineArgs": "--rest --data-path \"path\\to\\aas\\directory\" --edit --external-blazor http://localhost:5001",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "jsWebView2Debugging": true,
+      "applicationUrl": "http://localhost:5001"
+    }
+  },
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:56189",
+      "sslPort": 0
+    }
+  }
+}

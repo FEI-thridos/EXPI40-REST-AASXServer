@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "u+Koe+SCTo9pkybc6l0/YTkpelJRQBScWDDMqboPo1MMY6tNhv8jBhvEN2w8kN05mISBi79bn5zgiYBOvwxu5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\martin.pajpach\\Downloads\\AASX REST Server\\src\\jsoncanonicalizer\\jsoncanonicalizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\martin.pajpach\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\martin.pajpach\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

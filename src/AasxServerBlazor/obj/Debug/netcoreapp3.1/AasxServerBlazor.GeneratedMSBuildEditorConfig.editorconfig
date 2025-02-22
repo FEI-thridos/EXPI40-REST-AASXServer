@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = AasxServerBlazor
+build_property.ProjectDir = C:\Users\martin.pajpach\Downloads\AASX REST Server\src\AasxServerBlazor\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
